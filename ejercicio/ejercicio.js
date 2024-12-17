@@ -11,6 +11,7 @@
 // Obtener la lista de todos los libros.
 // Obtener detalles de un libro específico.
 // Crear, actualizar y eliminar libros.
+
 // Consultar todos los usuarios registrados.
 // Obtener detalles de un usuario específico.
 // Registrar libros prestados por un usuario (incluyendo la fecha de préstamo).
@@ -20,6 +21,7 @@
 
 // Un libro debe incluir enlaces para actualizar, eliminar, o registrar un préstamo.
 // Un usuario debe incluir enlaces para ver sus libros prestados o editar su información.
+
 // Requisitos adicionales:
 // Utilizar un servidor basado en Express.js.
 // Los datos deben estar almacenados en arrays simulando bases de datos.
